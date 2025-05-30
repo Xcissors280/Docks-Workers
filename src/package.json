@@ -1,5 +1,5 @@
 {
-  "name": "docs-markdown-viewer-worker",
+  "name": "docs-markdown-worker",
   "version": "1.0.0",
   "description": "Cloudflare Worker for Google Docs to Markdown viewer",
   "main": "src/index.js",
